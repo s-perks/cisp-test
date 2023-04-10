@@ -2,3 +2,4 @@
 2. Clone repo to local machine
 3. Checkout branch to make changes
 4. Push branch up to GitHub 
+5. do fun shit
